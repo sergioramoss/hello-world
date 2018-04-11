@@ -1,2 +1,3 @@
 # hello-world
-test
+
+I'm new here and trying to learn how GitHub works.
